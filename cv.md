@@ -4,6 +4,10 @@
 > [Email: maria.sylla@gmail.com](mailto:maria.sylla@gmail.com) |
 > [Phone: +375.29.1199004](tel:+375291199004)
 
+## About Me
+
+Results-oriented software developer with a focus on front-end development that understands the importance of creating highly readable and easily maintainable source code.
+
 ## Programming Skills
 
 **Front-End:**
